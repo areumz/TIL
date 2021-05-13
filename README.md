@@ -1,5 +1,5 @@
 # TIL
-This is an H2
+JavaScript
 -------------
 ### This is a H3
 > This is a first blockqute.
