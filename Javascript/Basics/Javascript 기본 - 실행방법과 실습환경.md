@@ -1,4 +1,6 @@
 # 코드 작성과 실행
 ```
-(타입 매개변수,...) -> { 실행문 } - > (int) -> { System.out.println(a); }
+<script>   
+    alert('hello world');   
+</script>   
 ```
