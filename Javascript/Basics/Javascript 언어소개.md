@@ -7,11 +7,11 @@ JavaScript 언어 소개
 : 웹서버 동작(Server side script)   
 ->ex. node. js
 
-#언어?   
+# 언어?   
 : 의사소통을 위한 약속   
 (ex. 한국어 "~해주세요" / JavaScript ~('Hello world');
 
-#환경?   
+# 환경?   
 : 언어를 사용하는 대상   
 (ex. 개발자 "개발해주세요", 의사 "치료해주세요" / ~에 들어가는 내용? 웹브라우저 "alert", Node.js "write", SpreadSheet "msgbox")   
 (웹브라우저, Node.js, SpreadSheet는 Javascript가 동작하는 환경)
