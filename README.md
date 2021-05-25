@@ -5,4 +5,4 @@
 
 ## Javascript
 * Basics
-  * [Javascript 언어 소개](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/Javascript%20%EC%96%B8%EC%96%B4%EC%86%8C%EA%B0%9C.md)
+  * [Javascript 언어 소개](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/Javascript%20%EC%96%B8%EC%96%B4%EC%86%8C%EA%B0%9C.md "Javascript 언어 소개")
