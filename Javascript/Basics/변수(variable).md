@@ -13,7 +13,7 @@
 ```
 var first = 'coding';
 ...
-first = '코딩';)
+first = '코딩';
 ```
 * var a = 'coding', b = 'everybody';   
 이런식으로도 사용 가능
