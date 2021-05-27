@@ -10,3 +10,4 @@
   * [숫자와 문자](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/%EC%88%AB%EC%9E%90%EC%99%80%20%EB%AC%B8%EC%9E%90.md "숫자와 문자")
   * [변수(variable)](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/%EB%B3%80%EC%88%98(variable).md "변수(variable)")
   * [비교](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/05.%20%EB%B9%84%EA%B5%90.md "비교")
+  * [조건문](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/06.%20%EC%A1%B0%EA%B1%B4%EB%AC%B8.md "조건문")
