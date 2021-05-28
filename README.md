@@ -12,3 +12,4 @@
   * [비교](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/05.%20%EB%B9%84%EA%B5%90.md "비교")
   * [조건문](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/06.%20%EC%A1%B0%EA%B1%B4%EB%AC%B8.md "조건문")
   * [반복문](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/07.%20%EB%B0%98%EB%B3%B5%EB%AC%B8.md "반복문")
+  * [함수](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/08.%20%ED%95%A8%EC%88%98.md "함수")
