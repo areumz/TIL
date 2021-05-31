@@ -16,4 +16,4 @@
   * [배열](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/09.%20%EB%B0%B0%EC%97%B4.md "배열")
   * [객체 (Object)](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/10.%20%EA%B0%9D%EC%B2%B4(Object).md "객체(Object)")
 * Etc
-  * [var, let, const에 대하여](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Etc/var,%20let,%20const%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md "var, let, const에 대하여")
+  * [var, let, const 차이점에 대하여](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Etc/var,%20let,%20const%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md "var, let, const 차이점에 대하여")
