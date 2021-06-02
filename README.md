@@ -19,5 +19,6 @@
   * [UI와 API 그리고 문서 보는 법](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/12.%20UI%EC%99%80%20API%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EB%AC%B8%EC%84%9C%20%EB%B3%B4%EB%8A%94%20%EB%B2%95.md "UI와 API 그리고 문서 보는 법")
   * [Javascript와 정규표현식](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/13.%20Javascript%EC%99%80%20%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D.md "Javascript와 정규표현식")
   * [함수지향 - 유효범위](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/14.%20%ED%95%A8%EC%88%98%EC%A7%80%ED%96%A5%20-%20%EC%9C%A0%ED%9A%A8%EB%B2%94%EC%9C%84.md "함수지향 - 유효범위")
+  * [함수지향 - 값으로서의 함수와 콜백](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/15.%20%ED%95%A8%EC%88%98%EC%A7%80%ED%96%A5%20-%20%EA%B0%92%EC%9C%BC%EB%A1%9C%EC%84%9C%EC%9D%98%20%ED%95%A8%EC%88%98%EC%99%80%20%EC%BD%9C%EB%B0%B1.md "함수지향 - 값으로서의 함수와 콜백")
 * Etc
   * [var, let, const 차이점에 대하여](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Etc/var,%20let,%20const%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md "var, let, const 차이점에 대하여")
