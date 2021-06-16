@@ -28,5 +28,6 @@
   * [객체지향 - this](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/22.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20-%20this.md "객체지향 - this")
   * [객체지향 - 상속](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/23.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20-%20%EC%83%81%EC%86%8D.md "객체지향 - 상속")
   * [객체지향 - 표준 내장객체의 확장](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/24.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20-%20%ED%91%9C%EC%A4%80%20%EB%82%B4%EC%9E%A5%EA%B0%9D%EC%B2%B4%EC%9D%98%20%ED%99%95%EC%9E%A5.md "객체지향 - 표준 내장객체의 확장")
+  * [객체지향 - Object](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/25.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20-%20Object.md "객체지향 - Object")
 * Etc
   * [var, let, const 차이점에 대하여](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Etc/var,%20let,%20const%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md "var, let, const 차이점에 대하여")
