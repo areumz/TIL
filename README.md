@@ -33,3 +33,6 @@
   * [객체지향 - 참조](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/27.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20-%20%EC%B0%B8%EC%A1%B0.md "객체지향 - 참조")
 * Etc
   * [var, let, const 차이점에 대하여](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Etc/var,%20let,%20const%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md "var, let, const 차이점에 대하여")
+
+## Etc
+* [취업관련 링크 모음](https://github.com/iRRPL-AR/TIL/edit/main/Etc../%EC%B7%A8%EC%97%85%EA%B4%80%EB%A0%A8%20%EB%A7%81%ED%81%AC%20%EB%AA%A8%EC%9D%8C.md "취업관련 링크 모음")
