@@ -39,7 +39,7 @@
   * [jQuery](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/05.%20jQuery.md "jQuery")
   * [HTMLElement](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/06.%20HTML%20Element.md "HTMLElement")
   * [HTMLCollection](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/07.%20HTMLCollection.md "HTMLCollection")
-  * [jQuery 객체](https://github.com/iRRPL-AR/TIL/edit/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/08.%20%20jQuery%20%EA%B0%9D%EC%B2%B4.md "jQuery 객체")
+  * [jQuery 객체](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/08.%20%20jQuery%20%EA%B0%9D%EC%B2%B4.md "jQuery 객체")
 * Etc
   * [var, let, const 차이점에 대하여](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Etc/var,%20let,%20const%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md "var, let, const 차이점에 대하여")
 
