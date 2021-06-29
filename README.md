@@ -38,6 +38,7 @@
   * [DOM, 제어 대상 찾기](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/04.%20DOM%2C%20%EC%A0%9C%EC%96%B4%20%EB%8C%80%EC%83%81%20%EC%B0%BE%EA%B8%B0.md "DOM, 제어 대상 찾기")
   * [jQuery](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/05.%20jQuery.md "jQuery")
   * [HTMLElement](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/06.%20HTML%20Element.md "HTMLElement")
+  * [HTMLCollection](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/07.%20HTMLCollection.md "HTMLCollection")
 * Etc
   * [var, let, const 차이점에 대하여](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Etc/var,%20let,%20const%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md "var, let, const 차이점에 대하여")
 
