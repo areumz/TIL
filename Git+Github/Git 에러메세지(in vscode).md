@@ -16,7 +16,7 @@ git' 용어가 cmdlet, 함수, 스크립트 파일 또는 실행할 수 있는 �
 ![image](https://user-images.githubusercontent.com/84116709/134469607-a85bfc94-70ed-47f0-a96e-c6a8939ad47d.png)
 1. 처음에 ```powershell``` 로 되어있던 것을
 
-![image](https://user-images.githubusercontent.com/84116709/134469805-1d1cbe85-6a44-4b87-82dc-31541dd5f6a6.png)
+![image](https://user-images.githubusercontent.com/84116709/134469805-1d1cbe85-6a44-4b87-82dc-31541dd5f6a6.png)   
 2. ```Select Default profile```을 눌러서
 
 ![image](https://user-images.githubusercontent.com/84116709/134469870-bae01bab-e056-42fa-8985-39712980623a.png)
