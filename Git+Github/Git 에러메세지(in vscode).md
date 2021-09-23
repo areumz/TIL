@@ -19,8 +19,8 @@ git' 용어가 cmdlet, 함수, 스크립트 파일 또는 실행할 수 있는 �
 ![image](https://user-images.githubusercontent.com/84116709/134469805-1d1cbe85-6a44-4b87-82dc-31541dd5f6a6.png)   
 2. ```Select Default profile```을 눌러서
 
-![image](https://user-images.githubusercontent.com/84116709/134469870-bae01bab-e056-42fa-8985-39712980623a.png)
+![image](https://user-images.githubusercontent.com/84116709/134469870-bae01bab-e056-42fa-8985-39712980623a.png)   
 3. ```Git Bash``` 선택해줌. 그리고 터미널 껐다 켜기 (위 블로그에서는 Select Default Shell 이었는데, 나는 왜 profile로 뜨는지 모르겠다ㅠ)
 
-![image](https://user-images.githubusercontent.com/84116709/134470037-67083dc6-133e-4104-98aa-91908a1000bd.png)
+![image](https://user-images.githubusercontent.com/84116709/134470037-67083dc6-133e-4104-98aa-91908a1000bd.png)   
 4. 바로 잘 해결됨
