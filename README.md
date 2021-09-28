@@ -34,6 +34,7 @@
   * [객체지향 - Object](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/25.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20-%20Object.md "객체지향 - Object")
   * [객체지향 - 데이터 타입](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/26.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md "객체지향 - 데이터 타입")
   * [객체지향 - 참조](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/27.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20-%20%EC%B0%B8%EC%A1%B0.md "객체지향 - 참조")
+
 * 웹브라우저 Javascript
   * [HTML에서 JavaScript 로드하기](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/01.%20HTML%EC%97%90%EC%84%9C%20JavaScript%20%EB%A1%9C%EB%93%9C%ED%95%98%EA%B8%B0.md "HTML에서 JavaScript 로드하기")
   * [Object Model](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/02.%20Object%20Model.md "Object Model")
@@ -50,6 +51,10 @@
   * [문서의 기하학적 특성](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/13.%20%EB%AC%B8%EC%84%9C%EC%9D%98%20%EA%B8%B0%ED%95%98%ED%95%99%EC%A0%81%20%ED%8A%B9%EC%84%B1.md "문서의 기하학적 특성")
   * [이벤트](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/14.%20%EC%9D%B4%EB%B2%A4%ED%8A%B8.md "이벤트")
   * [네트워크 통신](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/15.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%86%B5%EC%8B%A0.md "네트워크 통신")
+
+* 함수형 프로그래밍과 JS ES6+
+ * [함수형 자바스크립트 기본기](https://github.com/iRRPL-AR/TIL/blob/main/%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC%20JS%20ES6+/%ED%95%A8%EC%88%98%ED%98%95%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EA%B8%B0%EB%B3%B8%EA%B8%B0.md "함수형 자바스크립트 기본기")
+
 * Etc
   * [var, let, const 차이점에 대하여](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Etc/var,%20let,%20const%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md "var, let, const 차이점에 대하여")
 
