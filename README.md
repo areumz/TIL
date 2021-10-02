@@ -55,6 +55,9 @@
 * 함수형 프로그래밍과 JS ES6+
   * [함수형 자바스크립트 기본기](https://github.com/iRRPL-AR/TIL/blob/main/%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC%20JS%20ES6+/%ED%95%A8%EC%88%98%ED%98%95%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EA%B8%B0%EB%B3%B8%EA%B8%B0.md "함수형 자바스크립트 기본기")
 
+* 만들면서 학습하는 리액트 (react)
+   * [JS에서 class 다시 정리](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C%20%ED%95%99%EC%8A%B5%ED%95%98%EB%8A%94%20%EB%A6%AC%EC%95%A1%ED%8A%B8%20(react)/JS%EC%97%90%EC%84%9C%20class%20%EB%8B%A4%EC%8B%9C%20%EC%A0%95%EB%A6%AC.md "JS에서 class 다시 정리")
+
 * Etc
   * [var, let, const 차이점에 대하여](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Etc/var,%20let,%20const%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md "var, let, const 차이점에 대하여")
 
