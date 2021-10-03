@@ -63,3 +63,4 @@
 
 ## Etc
 * [취업관련 링크 모음](https://github.com/iRRPL-AR/TIL/edit/main/Etc../%EC%B7%A8%EC%97%85%EA%B4%80%EB%A0%A8%20%EB%A7%81%ED%81%AC%20%EB%AA%A8%EC%9D%8C.md "취업관련 링크 모음")
+* [어떻게 하면 구글링을 잘할까?](https://github.com/iRRPL-AR/TIL/blob/main/Etc/%EC%96%B4%EB%96%BB%EA%B2%8C%20%ED%95%98%EB%A9%B4%20%EA%B5%AC%EA%B8%80%EB%A7%81%EC%9D%84%20%EC%9E%98%ED%95%A0%EA%B9%8C%3F.md "어떻게 하면 구글링을 잘할까?")
