@@ -5,6 +5,7 @@
 * [Git 에러메세지(in vscode)](https://github.com/iRRPL-AR/TIL/blob/main/Git%2BGithub/Git%20%EC%97%90%EB%9F%AC%EB%A9%94%EC%84%B8%EC%A7%80(in%20vscode).md "Git 에러메세지(in vscode)")
 * [자주 사용하는 git 명령어](https://github.com/iRRPL-AR/TIL/blob/main/Git%2BGithub/%EC%9E%90%EC%A3%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20git%20%EB%AA%85%EB%A0%B9%EC%96%B4.md "자주 사용하는 git 명령어")
 * [Git 관련 참고 사이트](https://github.com/iRRPL-AR/TIL/blob/main/Git%2BGithub/Git%20%EA%B4%80%EB%A0%A8%20%EC%B0%B8%EA%B3%A0%20%EC%82%AC%EC%9D%B4%ED%8A%B8.md "Git 관련 참고 사이트")
+* [Emoji cheat sheet for GitHub](https://github.com/iRRPL-AR/TIL/blob/main/Git%2BGithub/Emoji%20cheat%20sheet%20for%20GitHub.md "Emoji cheat sheet for GitHub")
 
 ## Javascript
 * Basics
