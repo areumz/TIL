@@ -6,7 +6,7 @@
 * [자주 사용하는 git 명령어](https://github.com/iRRPL-AR/TIL/blob/main/Git%2BGithub/%EC%9E%90%EC%A3%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20git%20%EB%AA%85%EB%A0%B9%EC%96%B4.md "자주 사용하는 git 명령어")
 * [Git 관련 참고 사이트](https://github.com/iRRPL-AR/TIL/blob/main/Git%2BGithub/Git%20%EA%B4%80%EB%A0%A8%20%EC%B0%B8%EA%B3%A0%20%EC%82%AC%EC%9D%B4%ED%8A%B8.md "Git 관련 참고 사이트")
 * [Emoji cheat sheet for GitHub](https://github.com/iRRPL-AR/TIL/blob/main/Git%2BGithub/Emoji%20cheat%20sheet%20for%20GitHub.md "Emoji cheat sheet for GitHub")
-* [브랜치 관련](https://github.com/iRRPL-AR/TIL/blob/main/Git%2BGithub/%EB%B8%8C%EB%9E%9C%EC%B9%98%20%EA%B4%80%EB%A0%A8.md "브랜치 관련
+* [브랜치 관련](https://github.com/iRRPL-AR/TIL/blob/main/Git%2BGithub/%EB%B8%8C%EB%9E%9C%EC%B9%98%20%EA%B4%80%EB%A0%A8.md "브랜치 관련")
 
 ## Javascript
 * Basics
