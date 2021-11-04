@@ -18,5 +18,5 @@ title.textContent = title.textContent = data
 ```
   * React를 사용하면 돔 API를 직접 호출할 필요없이 상태만 관리해서 UI까지 제어가 가능함
 
-> 출처 : https://ko.reactjs.org/tutorial/tutorial.html#what-is-react
+> 출처 : https://ko.reactjs.org/tutorial/tutorial.html#what-is-react   
 만들고 비교하며 학습하는 리액트 (react) - 인프런
