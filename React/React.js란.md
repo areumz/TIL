@@ -16,8 +16,12 @@ data = "안녕하세요"
 title.textContent = title.textContent = data
 //이렇게 data를 수정하고, 값을 반영해서 화면에 출력하기까지 따로 적어줘야함
 ```
-  * React를 사용하면 돔 API를 직접 호출할 필요없이 상태만 관리해서 UI까지 제어가 가능함   
+* React를 사용하면 돔 API를 직접 호출할 필요없이 상태만 관리해서 UI까지 제어가 가능함   
   즉, 상태만 변경하면 자동으로 UI를 변경하는 '리액티브' 방식 프로그래밍으로 UI 개발 가능
+
+* 프론트엔드 개발에서 DOM 제어는 필요함.   
+너무 자주 호출되면? 성능에 영향을 줌   
+따라서, 꼭 필요할 때 접근하여 성능 개선 시키는 아이디어 : 가상돔
 
 > 출처 : https://ko.reactjs.org/tutorial/tutorial.html#what-is-react   
 만들고 비교하며 학습하는 리액트 (react) - 인프런
