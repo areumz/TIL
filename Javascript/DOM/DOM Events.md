@@ -21,7 +21,8 @@ ex)target.addEventListner("click", handler, true) //기본값은 false(bubble). 
 ```e.sotpPropagation()```
 * 이후로 전파 멈추기
 * 참고로 핸들러는 event 객체를 자동 제공 (관련된 메소드와 함께)   
-보통 e, evt, event로 많이 씀 (다른 이름 상관 없지만 굳이..)   
+보통 e, evt, event로 많이 씀 (다른 이름 상관 없지만 굳이..)    
+
 ```e.preventDefault()```
 * 기본 동작 막기
 
