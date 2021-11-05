@@ -16,7 +16,7 @@ Event의 시발점 = target
 ```
 * 보통 이런 흐름으로 실행되고, currentTarget과 target이 불일치할 경우 캡쳐?버블? 선택 가능   
 ex)target.addEventListner("click", handler, true) //기본값은 false(bubble). true는 캡쳐
-
+"
  > 출처 : [프론트엔드 개발자라면 반드시 알아야 할 필수 DOM 이벤트 10분 정리]("https://www.youtube.com/watch?v=it46nEygRcM")   
- [DOM 이벤트 플로우 완벽하게 정리해드립니다. 캡쳐냐버블이냐 프론트엔드개발기초](https://www.youtube.com/watch?v=7gKtNC3b_S8)   
- [필수 DOM 이벤트 객체 메소드 2개 (면접에서도 묻더라... 부들) #topPropagation preventDefault]("https://www.youtube.com/watch?v=SbSAlxw9Lz8")
+ [DOM 이벤트 플로우 완벽하게 정리해드립니다. 캡쳐냐버블이냐 프론트엔드개발기초]("https://www.youtube.com/watch?v=7gKtNC3b_S8")   
+ [필수 DOM 이벤트 객체 메소드 2개 (면접에서도 묻더라... 부들) stopPropagation preventDefault]("https://www.youtube.com/watch?v=SbSAlxw9Lz8")
