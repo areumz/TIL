@@ -21,6 +21,4 @@ css에 가상 요소 만드는 것을 추천
         ::after - 해당 요소 맨 뒤에 추가
       * 위 사용은 display:block 만 사용 가능하며 content: 필수 (공백을 주더라도)
 
-
-
 > 출처 : 김버그의 HTML & CSS는 재밌다
