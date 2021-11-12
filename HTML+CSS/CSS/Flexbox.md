@@ -19,7 +19,7 @@ row와 column을 많이 씀
     * 자기 방향으로 main axis, 그와 크로스 방향으로 cross axis 생김
     * main axis 기준 정렬 ? ```justify-content```
     * cross axis 기준 정렬 ? ```align-items 와 align-content```   
-      align-items는 하나의 flex line 을 기준으로 함. 예를 들어 wrap 적용해서 넘쳐서 line이 두개 생기면.. 애매해짐
+      align-items는 하나의 flex line 을 기준으로 함. 예를 들어 wrap 적용해서 넘쳐서 line이 두개 생기면.. 애매해짐   
       align-content는 큰 전체 line 을 기준으로 함
       
 * 위 두가지에 줄 수 있는 것들
