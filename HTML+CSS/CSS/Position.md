@@ -21,4 +21,8 @@ static 아닌 요소를 기준 삼아 이동함
 ### z-index
 * static 제외하고 생기는 값. 요소를 덮을 때 사용
 
+## 그 외
+* absolute 사용 후 top:50% 처럼 퍼센트 사용시에, 정 가운데에 안 올 수 있음 (relative 요소 기준이라)   
+그 때 transfrom:translate 사용해서 맞추기 (ex.transform:translateY(-50%) 하면 위로 올라가서 맞춤)
+
 > 출처 : 김버그의 HTML & CSS는 재밌다
