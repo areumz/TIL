@@ -12,7 +12,7 @@ display: flex 또는 inline-flex
 ### 정렬
 ```
 flex direction: 
-row 가로 row-reverse 가로 역방향 column 세로 column-reverse 세로 역방향
+row 가로 (기본) row-reverse 가로 역방향 column 세로 column-reverse 세로 역방향
 row와 column을 많이 씀
 ```
 * Axis
@@ -23,7 +23,7 @@ row와 column을 많이 씀
       align-content는 큰 전체 line 을 기준으로 함
       
 * 위 두가지에 줄 수 있는 것들
-    * flex-statrt : 시작점 기준
+    * flex-statrt : 시작점 기준. 기본
     * flex-end : 끝점 기준
     * center : 가운데
     * space-between : 간격 균일
