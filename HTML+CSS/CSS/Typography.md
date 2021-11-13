@@ -27,4 +27,22 @@
     * rgb : rgb(0, 102, 255)
     * rgba : rgba(0, 102, 255, 1) 0 투명 0.5 반투명 1 불투명
 
+## text-align : 정렬
+* 단위 : left / right / center
+
+## text-indent : 들여쓰기
+* 단위 : px
+
+## text-transform
+* none / capitalize / upppercase / lowercase
+* 알파벳 베이스만 가능
+
+## text-decoration
+* none / underline / line-through / overline
+* a 태그의 밑줄 없앨 때 자주 사용
+
+## font-style
+* normal / italic / oblique
+* em의 italic 해제 시 자주 사용
+
 > 출처 : 김버그의 HTML&CSS는 재밌다
