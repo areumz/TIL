@@ -38,5 +38,6 @@ flex-wrap: nowrap 또는 wrap
 
 ### Flex party
 * 참고 : order 로 그 안의 자식 요소 간 순서 바꾸기 가능
+* flex-grow
 
 > 출처 : 김버그의 HTML&CSS는 재밌다
