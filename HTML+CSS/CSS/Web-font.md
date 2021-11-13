@@ -5,7 +5,7 @@
 
 ## 폴더 내 폰트 제공하는 방법
 ```
-@font0face {
+@font-face {
   font-family: '(문서 내에서 사용할 폰트명 명명)';
   font-style: normal 등
   font-weight: 400 등
