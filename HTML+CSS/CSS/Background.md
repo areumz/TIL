@@ -20,4 +20,4 @@
 ## background-position
 * x축 y축 조절해서 배치
 
-> 출처 : 김버그의 HTML&CSS는 재미있다
+> 출처 : 김버그의 HTML&CSS는 재밌다
