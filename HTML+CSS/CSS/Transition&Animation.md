@@ -1,7 +1,7 @@
 # Transition
 ## property
 * font-size, all 등 다양하게 줄 수 있음
-* 
+
 ## duration
 * ms / s (1s === 1000ms)
 
