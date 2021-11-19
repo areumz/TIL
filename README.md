@@ -76,6 +76,7 @@
 ## React
 * [React.js란](https://github.com/iRRPL-AR/TIL/blob/main/React/React.js%EB%9E%80.md "React.js란")
 * [React 시작](https://github.com/iRRPL-AR/TIL/blob/main/React/React%20%EC%8B%9C%EC%9E%91.md "React 시작")
+* [index와 JSX](https://github.com/iRRPL-AR/TIL/blob/main/React/index%EC%99%80%20JSX.md "index와 JSX")
 * [Component](https://github.com/iRRPL-AR/TIL/blob/main/React/Component.md "Component")
 
 ## CloneCoding
