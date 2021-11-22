@@ -18,3 +18,4 @@ const [num, setNum] = useState(1);
 setter 함수 이름 어떻든 상관 없지만 일반적으로 state 이름 앞에 set 붙임
 ```
 
+* React에서 map 사용시에 key 반드시!
