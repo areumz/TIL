@@ -1,6 +1,6 @@
 # Props
 * 컴포넌트에 지정한 속성들
-* component 태그에 지정한 속성은 하나의 객체 형태로 component 함수의 첫번째 parameter 로 전달   
+* component 태그에 지정한 속성은 하나의 객체 형태로 component 함수의 첫번째 parameter 로 전달(첫번째이자 유일한)   
 숫자는 {2} 이런식으로
 
 # Children prop
