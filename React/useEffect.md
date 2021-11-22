@@ -15,3 +15,19 @@ useEffect( () => {
   console.log("SEARCH FOR");
 }, [keyword]);
 ```
+
+# Cleanup
+```
+function Hello() {
+	function byFn() {
+		console.log("bye :(");
+}
+	function hiFn() {
+		console.log("created :)");
+		return byFn;
+}
+	useEffect(hiFn, []);
+	return <h1>Hello</h1>;
+}
+```
+* 처음에 hiFn 작동, 이후 컴포넌트 망가지면 byFn 작동
