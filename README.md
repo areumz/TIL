@@ -70,6 +70,12 @@
   * [DOM이란](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/DOM/DOM%EC%9D%B4%EB%9E%80.md "DOM이란")
   * [DOM Events](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/DOM/DOM%20Events.md "DOM Events")
 
+* [노마드코더]크롬앱
+  * [사용자 이름 저장](https://github.com/iRRPL-AR/TIL/blob/main/CloneCoding/%5B%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94%5D%ED%81%AC%EB%A1%AC%EC%95%B1/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%9D%B4%EB%A6%84%20%EC%A0%80%EC%9E%A5.md "사용자 이름 저장")
+  * [clock](https://github.com/iRRPL-AR/TIL/blob/main/CloneCoding/%5B%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94%5D%ED%81%AC%EB%A1%AC%EC%95%B1/clock.md "clock")
+  * [랜덤 이미지](https://github.com/iRRPL-AR/TIL/blob/main/CloneCoding/%5B%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94%5D%ED%81%AC%EB%A1%AC%EC%95%B1/%EB%9E%9C%EB%8D%A4%20%EC%9D%B4%EB%AF%B8%EC%A7%80.md "랜덤 이미지")
+  * [To Do](https://github.com/iRRPL-AR/TIL/blob/main/CloneCoding/%5B%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94%5D%ED%81%AC%EB%A1%AC%EC%95%B1/To%20Do.md "To Do")
+
 * Etc
   * [var, let, const 차이점에 대하여](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Etc/var,%20let,%20const%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md "var, let, const 차이점에 대하여")
 
@@ -80,17 +86,11 @@
 * [Component](https://github.com/iRRPL-AR/TIL/blob/main/React/Component.md "Component")
 * [Props](https://github.com/iRRPL-AR/TIL/blob/main/React/Props.md "Props")
 * [State](https://github.com/iRRPL-AR/TIL/blob/main/React/State.md "State")
-* [빌드](https://github.com/iRRPL-AR/TIL/blob/main/React/%EB%B9%8C%EB%93%9C.md "빌드")
+* [빌드](https://github.com/iRRPL-AR/TIL/blob/main/React/%EB%B9%8C%EB%93%9C.md "빌드") 
 * [AWS로 배포](https://github.com/iRRPL-AR/TIL/blob/main/React/AWS%EB%A1%9C%20%EB%B0%B0%ED%8F%AC.md "AWS로 배포")
 * [Module not found](https://github.com/iRRPL-AR/TIL/blob/main/React/Module%20not%20found%20%EB%AC%B8%EC%A0%9C.md "Module not found")
 * [useEffect](https://github.com/iRRPL-AR/TIL/blob/main/React/useEffect.md "useEffect")
-
-## CloneCoding
-* [노마드코더]크롬앱
-  * [사용자 이름 저장](https://github.com/iRRPL-AR/TIL/blob/main/CloneCoding/%5B%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94%5D%ED%81%AC%EB%A1%AC%EC%95%B1/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%9D%B4%EB%A6%84%20%EC%A0%80%EC%9E%A5.md "사용자 이름 저장")
-  * [clock](https://github.com/iRRPL-AR/TIL/blob/main/CloneCoding/%5B%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94%5D%ED%81%AC%EB%A1%AC%EC%95%B1/clock.md "clock")
-  * [랜덤 이미지](https://github.com/iRRPL-AR/TIL/blob/main/CloneCoding/%5B%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94%5D%ED%81%AC%EB%A1%AC%EC%95%B1/%EB%9E%9C%EB%8D%A4%20%EC%9D%B4%EB%AF%B8%EC%A7%80.md "랜덤 이미지")
-  * [To Do](https://github.com/iRRPL-AR/TIL/blob/main/CloneCoding/%5B%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94%5D%ED%81%AC%EB%A1%AC%EC%95%B1/To%20Do.md "To Do")
+* [fetch.then 대신 쓸 수 있는 것](https://github.com/iRRPL-AR/TIL/blob/main/React/fetch.then%20%EB%8C%80%EC%8B%A0%20%EC%93%B8%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%EA%B2%83.md "fetch.then 대신 쓸 수 있는 것")
 
 ## HTML+CSS
 * CSS
