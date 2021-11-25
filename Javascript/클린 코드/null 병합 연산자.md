@@ -1,4 +1,4 @@
- :heavy_multiplication_x: :rage:**Bad code**
+ :heavy_multiplication_x:**Bad code**:rage:
 ```
 function printMessage(text) {
   let message = text;
@@ -8,7 +8,7 @@ function printMessage(text) {
   console.log(message);
 }
 ```
-:heavy_check_mark: :grin:**Clean code**
+:heavy_check_mark:**Clean code**:grin:
 ```
 function printMessage(text) {
     const message = text ?? 'Nothing to display';
