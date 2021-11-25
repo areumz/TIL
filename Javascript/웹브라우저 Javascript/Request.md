@@ -22,7 +22,7 @@ const newMember = {
 };
 
 fetch('https://learn.codeit.kr/api/members', {
-  method: 'POST';
+  method: 'POST',
   body: JSON.stringify(newMember),
 })
     .then((response) => response.text())
