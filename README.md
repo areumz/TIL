@@ -57,6 +57,7 @@
   * [URL](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/URL.md "URL")
   * [JSON](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/JSON.md "JSON")
   * [Request](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/Request.md "Request")
+  * [Web API, REST API](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/Web%20API%2C%20REST%20API.md "Web API, REST API")
   * [Ajax](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/Ajax.md "Ajax")
 
 * 함수형 프로그래밍과 JS ES6+
