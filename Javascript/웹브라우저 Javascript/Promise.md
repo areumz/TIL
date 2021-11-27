@@ -9,3 +9,8 @@ rejected 실패
 ```
 * then 메소드는 새로운 Promise 객체를 리턴하기에 Promise Chaning 가능
 
+## 여러가지 사용 가능한 메소드
+```
+all, race, allSettled, any
+```
+
