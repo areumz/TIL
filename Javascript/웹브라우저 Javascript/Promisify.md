@@ -29,7 +29,8 @@ function pick(menus) {
       reject(new Error('Need Candidates'));
     } else {
       setTimeout(() => {
-        const randomIdx = Math.floor(Math.random() * menus.length);        	const selectedMenu = menus[randomIdx];
+        const randomIdx = Math.floor(Math.random() * menus.length);        	
+        const selectedMenu = menus[randomIdx];
         resolve(selectedMenu);
       }, 1000);    
     }     
