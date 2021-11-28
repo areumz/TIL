@@ -36,6 +36,7 @@
   * [객체지향 - Object](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/25.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20-%20Object.md "객체지향 - Object")
   * [객체지향 - 데이터 타입](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/26.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20-%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85.md "객체지향 - 데이터 타입")
   * [객체지향 - 참조](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/27.%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20-%20%EC%B0%B8%EC%A1%B0.md "객체지향 - 참조")
+  * [Dynamic typing](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/Dynamic%20typing.md "Dynamic typing")
 
 * 웹브라우저 Javascript
   * [HTML에서 JavaScript 로드하기](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/01.%20HTML%EC%97%90%EC%84%9C%20JavaScript%20%EB%A1%9C%EB%93%9C%ED%95%98%EA%B8%B0.md "HTML에서 JavaScript 로드하기")
