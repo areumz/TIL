@@ -62,6 +62,7 @@
   * [Promise](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/Promise.md "Promise")
   * [catch, finally](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/catch%2C%20finally.md "catch, finally")
   * [Promisify](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/Promisify.md "Promisify")
+  * [async 함수를 작성할 때 주의해야할 성능 문제](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/async%20%ED%95%A8%EC%88%98%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%95%A0%20%EB%95%8C%20%EC%A3%BC%EC%9D%98%ED%95%B4%EC%95%BC%ED%95%A0%20%EC%84%B1%EB%8A%A5%20%EB%AC%B8%EC%A0%9C.md "async 함수를 작성할 때 주의해야할 성능 문제")
 
 * 함수형 프로그래밍과 JS ES6+
   * [함수형 자바스크립트 기본기](https://github.com/iRRPL-AR/TIL/blob/main/%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC%20JS%20ES6+/%ED%95%A8%EC%88%98%ED%98%95%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EA%B8%B0%EB%B3%B8%EA%B8%B0.md "함수형 자바스크립트 기본기")
