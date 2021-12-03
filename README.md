@@ -110,6 +110,9 @@
 * [useHistory](https://github.com/iRRPL-AR/TIL/blob/main/React/useHistory.md "useHistory") 
 * [간단한 SASS 문법](https://github.com/iRRPL-AR/TIL/blob/main/React/%EA%B0%84%EB%8B%A8%ED%95%9C%20SASS%20%EB%AC%B8%EB%B2%95.md "간단한 SASS 문법")
 
+* 클린코드
+  * [alert 창 사라지기](https://github.com/iRRPL-AR/TIL/blob/main/React/%ED%81%B4%EB%A6%B0%20%EC%BD%94%EB%93%9C/alert%EC%B0%BD%20%EC%82%AC%EB%9D%BC%EC%A7%80%EA%B8%B0.md "alert 창 사라지기")
+
 
 ## HTML+CSS
 * CSS
