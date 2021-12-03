@@ -14,6 +14,11 @@ useEffect( () => {
 useEffect( () => {
   console.log("SEARCH FOR");
 }, [keyword]);
+
+//이 컴포넌트가 끝날 때 호출
+useEffect( () => {
+  return fucntion 이름() {실행 코드}
+})
 ```
 
 # Cleanup
