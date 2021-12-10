@@ -24,6 +24,7 @@ p t
 
 # 해답
 ```
+//어렵게 생각하지말고, 총 몇 쌍인지 = for문 몇번 도는지 생각   
 const data = prompt('문자를 입력하세요.');   
 
 for (let i=0; i<data.length-1; i++){   
