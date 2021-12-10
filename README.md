@@ -90,6 +90,12 @@
   * [null 병합 연산자](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%ED%81%B4%EB%A6%B0%20%EC%BD%94%EB%93%9C/null%20%EB%B3%91%ED%95%A9%20%EC%97%B0%EC%82%B0%EC%9E%90.md "null 병합 연산자")
   * [배열 중복 제거](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%ED%81%B4%EB%A6%B0%20%EC%BD%94%EB%93%9C/%EB%B0%B0%EC%97%B4%20%EC%A4%91%EB%B3%B5%20%EC%A0%9C%EA%B1%B0.md "배열 중복 제거")
 
+* 코딩테스트
+  * [글자 뒤집기](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EA%B8%80%EC%9E%90%20%EB%92%A4%EC%A7%91%EA%B8%B0.md "글자 뒤집기")
+  * [몇 번째 행성](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%AA%87%20%EB%B2%88%EC%A7%B8%20%ED%96%89%EC%84%B1.md "몇 번째 행성")
+  * [크리스마스 트리](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%ED%8A%B8%EB%A6%AC.md "크리스마스 트리")
+  * [평균 구하기](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.md "평균 구하기")
+
 * Etc
   * [var, let, const 차이점에 대하여](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Etc/var,%20let,%20const%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md "var, let, const 차이점에 대하여")
   * [디자인 무료 툴 사이트](https://github.com/iRRPL-AR/TIL/blob/main/Etc/%EB%94%94%EC%9E%90%EC%9D%B8%20%EB%AC%B4%EB%A3%8C%20%ED%88%B4%20%EC%82%AC%EC%9D%B4%ED%8A%B8.md "디자인 무료 툴 사이트")
