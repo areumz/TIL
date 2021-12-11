@@ -95,6 +95,12 @@
   * [몇 번째 행성](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%AA%87%20%EB%B2%88%EC%A7%B8%20%ED%96%89%EC%84%B1.md "몇 번째 행성")
   * [크리스마스 트리](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%ED%8A%B8%EB%A6%AC.md "크리스마스 트리")
   * [평균 구하기](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.md "평균 구하기")
+  * [2-gram](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/2-gram.md "2-gram")
+  * [Factory 함수](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/Factory%20%ED%95%A8%EC%88%98.md "Factory 함수")
+  * [객체 생성](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1.md "객체 생성")
+  * [반장선거](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%B0%98%EC%9E%A5%EC%84%A0%EA%B1%B0.md "반장선거")
+  * [중복이 있는 1~3등](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%A4%91%EB%B3%B5%EC%9D%B4%20%EC%9E%88%EB%8A%94%201~3%EB%93%B1.md "중복이 있는 1~3등")
+
 
 * Etc
   * [var, let, const 차이점에 대하여](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Etc/var,%20let,%20const%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md "var, let, const 차이점에 대하여")
