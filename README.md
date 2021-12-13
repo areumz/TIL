@@ -100,7 +100,10 @@
   * [객체 생성](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1.md "객체 생성")
   * [반장선거](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%B0%98%EC%9E%A5%EC%84%A0%EA%B1%B0.md "반장선거")
   * [중복이 있는 1~3등](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%A4%91%EB%B3%B5%EC%9D%B4%20%EC%9E%88%EB%8A%94%201~3%EB%93%B1.md "중복이 있는 1~3등")
-
+  * [놀이기구 인원 제한](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%86%80%EC%9D%B4%EA%B8%B0%EA%B5%AC%20%EC%9D%B8%EC%9B%90%20%EC%A0%9C%ED%95%9C.md "놀이기구 인원 제한")   * [10진수를 2진수로](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/10%EC%A7%84%EC%88%98%EB%A5%BC%202%EC%A7%84%EC%88%98%EB%A1%9C.md "10진수를 2진수로")
+  * [병합 정렬](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EB%B3%91%ED%95%A9%20%EC%A0%95%EB%A0%AC.md "병합 정렬")
+  * [quick sort](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/quick%20sort.md "quick sort")
+  * [재귀함수](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98.md "재귀함수")
 
 * Etc
   * [var, let, const 차이점에 대하여](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Etc/var,%20let,%20const%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md "var, let, const 차이점에 대하여")
