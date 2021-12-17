@@ -17,7 +17,7 @@ const preIncrement = counter++;
 //preIncrement : 3, counter : 4
 ```
 * or 연산자는 하나라도 true면 true이기 때문에,   
-console.log(`or: ${value1 || value2 || check()}`);   
+```console.log(`or: ${value1 || value2 || check()}`);```      
 
 여기서 value1이 true면 뒤에 value2와 check함수는 실행 x   
 그래서 가벼운 값을 앞에 두고 heavy한 함수나 expression은 마지막에!   
