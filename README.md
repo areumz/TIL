@@ -39,6 +39,7 @@
   * [Dynamic typing](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/Dynamic%20typing.md "Dynamic typing")
   * [operator](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/operator.md "operator")
   * [Function(ES6)](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/Function(ES6).md "Function(ES6)")
+  * [class와 object(ES6)](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Basics/class%EC%99%80%20object(ES6).md "class와 object(ES6)")
 
 * 웹브라우저 Javascript
   * [HTML에서 JavaScript 로드하기](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20Javascript/01.%20HTML%EC%97%90%EC%84%9C%20JavaScript%20%EB%A1%9C%EB%93%9C%ED%95%98%EA%B8%B0.md "HTML에서 JavaScript 로드하기")
