@@ -113,7 +113,7 @@
   * [하노이의 탑](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91.md "하노이의 탑")
 
 * 디버깅
-  * [로컬에서의 CORS policy관련 에러](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EB%94%94%EB%B2%84%EA%B9%85/%EB%A1%9C%EC%BB%AC%EC%97%90%EC%84%9C%EC%9D%98%20CORS%20policy%20%EA%B4%80%EB%A0%A8%20%EC%97%90%EB%9F%AC.md)
+  * [로컬에서의 CORS policy 관련 에러](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EB%94%94%EB%B2%84%EA%B9%85/%EB%A1%9C%EC%BB%AC%EC%97%90%EC%84%9C%EC%9D%98%20CORS%20policy%20%EA%B4%80%EB%A0%A8%20%EC%97%90%EB%9F%AC.md "로컬에서의 CORS policy 관련 에러")
 
 * Etc
   * [var, let, const 차이점에 대하여](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/Etc/var,%20let,%20const%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md "var, let, const 차이점에 대하여")
