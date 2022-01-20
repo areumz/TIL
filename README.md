@@ -112,6 +112,7 @@
   * [재귀함수](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98.md "재귀함수")
   * [연속되는 수 판별](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%97%B0%EC%86%8D%EB%90%98%EB%8A%94%20%EC%88%98%20%ED%8C%90%EB%B3%84.md "연속되는 수 판별")
   * [하노이의 탑](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91.md "하노이의 탑")
+  * [객체의 함수 응용](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EA%B0%9D%EC%B2%B4%EC%9D%98%20%ED%95%A8%EC%88%98%20%EC%9D%91%EC%9A%A9.md "객체의 함수 응용")
 
 * 디버깅
   * [로컬에서의 CORS policy 관련 에러](https://github.com/iRRPL-AR/TIL/blob/main/Javascript/%EB%94%94%EB%B2%84%EA%B9%85/%EB%A1%9C%EC%BB%AC%EC%97%90%EC%84%9C%EC%9D%98%20CORS%20policy%20%EA%B4%80%EB%A0%A8%20%EC%97%90%EB%9F%AC.md "로컬에서의 CORS policy 관련 에러")
