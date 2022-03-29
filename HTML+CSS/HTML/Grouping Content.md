@@ -58,9 +58,10 @@
 ## `<figure>, <figcaption>`
 * 이미지와 캡션(자막, 설명)   
 <img src="https://paullabworkspace.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F28afb5bd-2e99-4dc1-a8f6-c047f5c112a3%2F%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2021-10-30_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_7.15.01.png?table=block&id=d3b0319d-b21e-4d1d-8e97-894912f8711f&spaceId=579fe283-28aa-489d-ae65-d683304becfc&width=620&userId=&cache=v2">
+
 ```
 <figure>
-	<img src="images/baby.jpg" alt="엄마 코끼리와 아기 코끼리">
+	<img src="" alt="">
   //이미지에 캡션 추가 위해 도입된 태그
 	<figcaption>
 		관심 받고싶어하는 아기
