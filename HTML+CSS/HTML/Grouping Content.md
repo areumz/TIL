@@ -10,7 +10,7 @@
 * <main>
 * <hr>
 ```
-## <ol>, <ul>, <li>
+## `<ol>`, `<ul>`, `<li>`
 * `<ol>` : ordered list. 순서가 있는 목록
 * `<ul>` : unordered list. 순서가 없는 목록을
 * `<li>`는 각 항목들을 나열하는 태그로 list item을 뜻함 
