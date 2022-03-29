@@ -35,10 +35,11 @@
 
 ## `<dl>, <dt>, <dd>`
 * 목록을 정의할 때 쓰임
-* `<ol>, <ul>, <li>`와 차이점이 있다면 <dl>, <dt>, <dd>는 사전처럼 어떠한 것을 정의할 때 쓰이는 목록
-* <dl>은 정의 목록(definition list)   
-  <dt>는 정의할 용어(definition term)   
-  <dd>는 용어를 설명(definition description)
+* `<ol>, <ul>, <li>`와 차이점이 있다면 `<dl>, <dt>, <dd>`는 사전처럼 어떠한 것을 정의할 때 쓰이는 목록
+* `<dl>`은 정의 목록(definition list)   
+  `<dt>`는 정의할 용어(definition term)   
+  `<dd>`는 용어를 설명(definition description)
+  
 ```
 <dl>
     <dt>HTML</dt>
