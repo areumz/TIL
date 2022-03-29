@@ -21,7 +21,7 @@ http://www.example.com:80/path/to/myfile.html?key1=value1&key2=value2#SomewhereI
 ```
 * 위와 같은 형태로, 사람이 외우기 어려우므로 URL을 사용
 * 도메인 네임을 컴퓨터가 바로 인식하기 어렵기 때문에 Domain Name Resolution이 필요함
-    * 
+    * Domain Name Resolution의 원리 따로 정리
 
 ## 📌 PORT란?
 * 운영 체제 통신의 종단점
