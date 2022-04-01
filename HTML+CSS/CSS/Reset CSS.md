@@ -10,7 +10,7 @@ a {
 button,
 input,
 textarea {
-    font-family: "()", sans-serif;
+    font-family: "(font name 넣기)", sans-serif;
     font-size: 16px;
 }
 
