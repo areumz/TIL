@@ -12,7 +12,8 @@
 * w, h : 0 으로 준 것을 보아 SEO를 위해 만듦, 스크린리더를 위한 것이 x
 
 ```
-.blind    position: absolute;
+.blind    
+    position: absolute;
     clip: rect(0 0 0 0);
     width: 1px;
     height: 1px;
