@@ -1,5 +1,5 @@
 # CSS 특강
-> 빔캠프 이종찬 대표님
+> 빔캠프 이종찬 대표님   
 > https://www.youtube.com/c/veamcamp
 
 * CSS 작업은 디테일이 아닌 큰 덩어리를 먼저 볼 수 있어야하고, 설계해야함   
