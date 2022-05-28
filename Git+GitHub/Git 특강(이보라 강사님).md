@@ -4,7 +4,7 @@
     * [커맨드라인 인터페이스, 셸, 터미널이란?](https://www.44bits.io/ko/keyword/command-line-interface-cli-shell-and-terminal)
     * [커맨드라인 사용법](https://www.44bits.io/ko/post/linux-and-mac-command-line-survival-guide-for-beginner)
     * [여러분의 CS교육에서 누락된 학기](https://missing-semester-kr.github.io/)
-    * [WomenWhoCode Seoul]https://www.facebook.com/wwcodeseoul/
+    * [WomenWhoCode Seoul](https://www.facebook.com/wwcodeseoul/)
 
 * 프로젝트 README.md에 필수로 들어가야할 것?   
 프로젝트 소개, 구동 방법!
