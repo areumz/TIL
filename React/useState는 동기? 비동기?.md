@@ -27,13 +27,15 @@ function Counter() {
   // 랜더링 됨
   const handleCountUp = (e) => {
     setCount(count + 1)
-    console.log(count) // 비동기 -> useEffect로 추적하면 동기 가능
+    console.log(count)
+    // 비동기. 순서대로 동작 x -> useEffect로 추적하면 동기 가능
   }
 
   // 렌더링 됨
   const handleCountUpTwo = (e) => {
     setCountTwo(countTwo + 1)
-    console.log(countTwo) // 비동기 -> useEffect로 추적하면 동기 가능
+    console.log(countTwo)
+    // 비동기. 순서대로 동작 x -> useEffect로 추적하면 동기 가능
   }
   
   // 클릭하면 변수의 값은 증가하지만 렌더링은 되지 않음
