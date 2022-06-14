@@ -39,14 +39,14 @@ function Counter() {
   }
   
   // 클릭하면 변수의 값은 증가하지만 렌더링은 되지 않음
-  만약 위 두개 함수 중 하나를 클릭해서 재렌더링되면, 이것도 그제서야 재렌더링
+  // 만약 위 두개 함수 중 하나를 클릭해서 재렌더링되면, 이것도 그제서야 재렌더링
   const handleCountUpThree = (e) => {
     countThree.current = countThree.current + 1
     console.log(countThree.current)
   }
 
   // 렌더링도 안되고 다른 state가 변해서 재렌더링 되어도 0으로 초기화
-  위의 세번째 함수와 차이점. 재렌더링 될 때 0으로 초기화됨
+  // 위의 세번째 함수와 차이점. 재렌더링 될 때 0으로 초기화됨
   const handleCountUpFour = (e) => {
     countFour = countFour + 1
     console.log(countFour)
