@@ -1,4 +1,4 @@
-// 배포용 testManager 파일
+// 배포용 tetManager 파일
 
 class TextManager {
     constructor() {
