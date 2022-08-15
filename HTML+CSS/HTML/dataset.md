@@ -27,3 +27,5 @@ function onButtonClick(event, items) {
 
 ```
 JS 내 함수에 활용 가능
+
+> 출처 : 드림코딩 쇼핑몰 미니게임 강의
