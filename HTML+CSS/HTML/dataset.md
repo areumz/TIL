@@ -1,6 +1,8 @@
 # dataset
 
 ```
+<!-- index.html -->
+    
       <button class="btn">
         <img
           src="img/blue_t.png"
@@ -11,8 +13,27 @@
         />
       </button>
 ```
+```
+// data.json
+
+{
+  "items": [
+    {
+      "type": "tshirt",
+      "gender": "female",
+      "size": "large",
+      "color": "pink",
+      "image": "../img/pink_t.png"
+    },
+    ...
+    ......
+    ]
+}
+```
 * 위와 같은 dataset을 활용해서
 ```
+// main.js
+
 function onButtonClick(event, items) {
   const dataset = event.target.dataset;
   const key = dataset.key;
