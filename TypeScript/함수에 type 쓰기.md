@@ -1,6 +1,7 @@
 ```js
+// readonly : 읽기 전용 속성
 type Player = {
-     name: string,
+     readonly name: string,
      age?: number
 }
 
