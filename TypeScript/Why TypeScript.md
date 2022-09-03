@@ -18,7 +18,7 @@ function divide(a, b) {
   return a/b
 }
 
-divide("xxxxxx"
+divide("xxxxxx")
 // NaN
 // 코드 실행을 막아주지 않음
 ```
