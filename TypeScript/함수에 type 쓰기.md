@@ -1,7 +1,7 @@
 ```js
 type Player = {
      name: string,
-    age?: number
+     age?: number
 }
 
 function playerMaker(name:string) : Player {
