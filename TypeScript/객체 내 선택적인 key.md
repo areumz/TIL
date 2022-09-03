@@ -21,7 +21,7 @@ if(player.age && player.age < 10) {
 ## 여러개의 객체를 만들고 싶을 때
 ```js
 type Player = {
-     name: string,
+    name: string,
     age?: number
 }
 
