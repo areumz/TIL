@@ -22,4 +22,11 @@ superPrint([1,2,3])
 superPrint(["hello", true, 3])
 ```
 
+* 이런식도 가능
+```js
+type SuperPrint = {
+    <T, M>(a:T[], b:M) => T
+}
+```
+
 > 출처 : 노마드코더 'TypeScript로 블록체인 만들기'
