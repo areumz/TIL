@@ -20,6 +20,11 @@ const superPrint: SuperPrint = (arr) => {
 
 superPrint([1,2,3])
 superPrint(["hello", true, 3])
+
+// 함수에 바로 쓴다면?
+function superPrint<T>(a: T[]){
+    return a[0]
+}
 ```
 
 * 이런식도 가능
