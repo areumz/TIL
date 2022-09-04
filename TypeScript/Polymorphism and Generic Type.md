@@ -22,4 +22,4 @@ superPrint([1,2,3])
 superPrint(["hello", true, 3])
 ```
 
-> 출처 : 노마드코더 
+> 출처 : 노마드코더 'TypeScript로 블록체인 만들기'
