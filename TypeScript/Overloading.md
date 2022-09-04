@@ -32,3 +32,5 @@ const add:Add = (a, b, c?:number) => {
     return a +b
 }
 ```
+
+> 출처 : 노마드코더 'TypeScript로 블록체인 만들기'
