@@ -13,7 +13,7 @@ if(target) {
 보다는 
 
 2)
-if(!targer) {
+if(!target) {
   return;
 }
 
