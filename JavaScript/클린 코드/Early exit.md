@@ -1,4 +1,4 @@
-# if문 사용시
+# Early exit
 
 ```js
 1)
