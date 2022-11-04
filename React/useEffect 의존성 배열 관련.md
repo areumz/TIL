@@ -16,13 +16,13 @@
 **(+) 추가**  
 만약 마운트 될 때 말고, 업데이트 될 때만 실행시키고 싶다면 아래와 같이 코드 추가
 ```js
- const mounted = useRef(false);
-  useEffect(() => {
-    if (!mounted.current) {
-      mounted.current = true;
-    } else {
-      console.log(name);
-      console.log("업데이트 될 때마다 실행");
-    }
-  }, [name]);
+const mounted = useRef(false);
+useEffect(() => {
+  if (!mounted.current) {
+    mounted.current = true;
+  } else {
+    console.log(name);
+    console.log("업데이트 될 때마다 실행");
+  }
+}, [name]);
 ```
