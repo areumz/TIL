@@ -12,7 +12,8 @@
 ## 그럼 크롤러가 읽을 수 있을까?
 * 보통 HTML 문서 로딩 후 -> JS 실행
 * 크롤러는 보통 문서가 로딩된 후 다녀가기 때문에 react-helmet으로 만들 데이터까지 못 가져가는 경우가 발생함
-  * 페이스북의 경우 포스트 작성시에는 데이터를 가져오지 못하다가포스트를 등록하면 og 태그를 가져오기도 하지만 (크롤러가 JS까지 실행한 후 데이터 가져가는 것으로 추측)
+  * 페이스북의 경우 포스트 작성시에는 데이터를 가져오지 못하다가 포스트를 등록하면 og 태그를 가져오기도 하지만   
+   (크롤러가 JS까지 실행한 후 데이터 가져가는 것으로 추측)
   * 트위터는 아무 것도 가져오지 못하며, 
   * 구글은 react-helmet으로 만들 데이터를 가져오지 못한다는 이슈가 등록되어 있다   
 [Googlebot not crawling React Helmet title and meta description on homepage](https://github.com/nfl/react-helmet/issues/377)
