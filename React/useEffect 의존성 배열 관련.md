@@ -55,7 +55,6 @@ function PublicFetch() {
     } else {
      isMounted.current = true;
     }
-
   }, [data]);
 }
 ```
