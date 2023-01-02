@@ -4,6 +4,7 @@
 
 ```js
 // Lnb.js in MainPage
+// 로그인 성공시 isLogined = true 가 되는 context API 코드가 존재한다고 가정
 
 useEffect(()=>{
 	let isSubscribed = true;
@@ -12,7 +13,7 @@ useEffect(()=>{
 		~~data fech 로직~~
 	};
 	fetch();
-}, [isLogined])
+}, [isLogined]);
 ```
 
   * 위 로직대로라면 로그인했을 때, useEffect를 실행시켜준다고 생각하기 쉽지만
