@@ -26,3 +26,38 @@ useEffect(() => {
   }
 }, [name]);
 ```
+**(+) 또 다른 예시**
+```js
+import { useState, useRef } from 'react'
+
+function PublicFetch() {
+  const [data, setData] = useState();
+  const isMounted = useRef(false)
+
+  // fetching the data with useEffect
+  useEffect(() => {
+   const res = await fetch(`/api/some-url`)
+    const data = await res.json()
+
+    if (res.ok) {
+      setData(data)
+    } else {
+      setData(null)
+    }
+  }, []);
+
+
+
+  // Do something else with the data
+  useEffect(() => {
+    if(isMounted.current){
+      doSomething(data);
+    } else {
+     isMounted.current = true;
+    }
+
+  }, [data]);
+}
+```
+
+> 참고 : https://intrepidgeeks.com/tutorial/how-to-prevent-useeffect-from-being-executed-in-reacts-initial-render
