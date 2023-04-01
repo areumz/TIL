@@ -10,6 +10,8 @@
   예를 들어, 컴포넌트에서 관리하는 값이 하나고 그 값이 단순한 숫자, 문자열, boolean 값이면 useState가 편함   
   그러나 상태 구조가 복잡하다면 useReducer로 관리하는 것이 편할 수 있음
   
-  (수정중)
+## Immer를 사용한 불변성 관리
+
+* (수정중)
 
 > 참고 : https://react.vlpt.us/basic/20-useReducer.html
