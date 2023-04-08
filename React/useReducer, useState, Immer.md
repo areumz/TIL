@@ -18,5 +18,6 @@
 
 * 이럴 때 `Immer` 를 사용하면 우리가 상태를 업데이트 할 때, 불변성을 신경쓰지 않으면서 업데이트를 할 수 있음
   * Immer 가 불변성 관리를 대신 해줌
+  * 예를 들면 push 같은 배열 메서드도 사용 가능해짐
 
 > 참고 : https://react.vlpt.us/basic/20-useReducer.html
